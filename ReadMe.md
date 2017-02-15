@@ -1,0 +1,1 @@
+Copy properties from one bean into another bean in java. Convert source object to destination object using commonbean-utils jar (reflection/example)
